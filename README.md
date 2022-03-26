@@ -16,4 +16,5 @@ _A Rainmeter skin to indicate golden hour/sunset for NZST._
 **Requirements**
 _Python 3.9_
 
-_All sunset times are in NZST._
+_All sunset times are in NZST.
+Feel free to edit the code to your timezone._
