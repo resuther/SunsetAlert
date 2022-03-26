@@ -1,14 +1,9 @@
 ![sunsetalert](https://user-images.githubusercontent.com/72550915/160226807-b4204c6b-a747-464a-b0ed-2b9d335c1cc7.png)
 
 # SunsetAlert
-_A Rainmeter skin to indicate golden hour/sunset._
+_A Rainmeter skin to indicate golden hour/sunset for NZST._
 
-**Features:**
-1. Added load on install. 
-2. Changed alert from text to dot. 
-3. Changed colour from white to yellow. 
-
-**HOW TO USE**
+**HOW TO USE:**
 1. Download and install the most recent release. 
 2. Run `start.bat` in you Rainmeter skins folder. 
 3. For any errors check Requirements. 
@@ -20,3 +15,5 @@ _A Rainmeter skin to indicate golden hour/sunset._
 
 **Requirements**
 _Python 3.9_
+
+_All sunset times are in NZST._
