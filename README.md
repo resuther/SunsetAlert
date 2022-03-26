@@ -4,14 +4,14 @@
 _A Rainmeter skin to indicate golden hour/sunset._
 
 **Features:**
-Added load on install. 
-Changed alert from text to dot. 
-Changed colour from white to yellow. 
+1. Added load on install. 
+2. Changed alert from text to dot. 
+3. Changed colour from white to yellow. 
 
 **HOW TO USE**
-Download and install the most recent release. 
-Run `start.bat` in you Rainmeter skins folder. 
-For any errors check Requirements. 
+1. Download and install the most recent release. 
+2. Run `start.bat` in you Rainmeter skins folder. 
+3. For any errors check Requirements. 
 
 **Start on boot:**
 1. WIN + R 
