@@ -13,9 +13,9 @@ _A Rainmeter skin to indicate golden hour/sunset for NZST._
 2. Type in the box: `shell:startup` 
 3. Move `start.bat - Shortcut` from Rainmeter folder to the startup folder. 
 
-**Requirements**
-_Python 3.9
-Living in New Zealand_
+**Requirements:**
+1. _Python 3.9_
+2. _Living in New Zealand_
 
 _All sunset times are in NZST.
 Feel free to edit the code to your timezone._
