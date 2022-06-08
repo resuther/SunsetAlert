@@ -22,12 +22,16 @@ while True:
     if now != start:
         if now != end:
             if yn == 0:
-                with open('txt.txt', 'w') as file:
+                with open('n.txt', 'w') as file:
+                    file.write(".")
+                with open('y.txt', 'w') as file:
                     file.write("")
     if now == start:
-        with open('txt.txt', 'w') as file:
+        with open('y.txt', 'w') as file:
             file.write(".")
-            yn = 1
+        with open('n.txt', 'w') as file:
+            file.write("")
+        yn = 1
     if now == end:
         yn = 0
     time.sleep(59)
